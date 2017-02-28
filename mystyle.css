@@ -1,0 +1,15 @@
+body{
+  text-align:center;
+}
+
+#container{
+  background-color:pink;color:teal;
+  margin:25px;padding:25px;border-radius:25px;  
+}
+  
+  #flashcard input[type=button]{
+    background-color:pink;
+      padding:20px;
+     font-size:15px;
+   
+}

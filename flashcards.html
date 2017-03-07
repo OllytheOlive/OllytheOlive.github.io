@@ -1,7 +1,8 @@
 <html>
   <head>
     <title>Flascards</title>
-     <link rel="stylesheet" type="text/css" href="mystyle.css">
+     <link rel="stylesheet" type="text/css" href="mystyle.css" />>
+    <script src="flashcards.js"></script>
   </head>
   <body>
     <div id="container" style>
@@ -12,7 +13,7 @@
      </p> 
       <div id="flashcard">
         <p>
-          <input type="button" value= "New Card" onclick="getCard()" />
+          <input type="button" value="New Card" onclick="getCard()" />
         </p>
         <p id= "operand1">
           0
@@ -20,17 +21,17 @@
         <p id="operator">
           +
         </p>
-        <p id="operand2"
+        <p id="operand2">
            0
            </p>
            <p>
              ----------
         </p>
         <p id= "answer">
-          0
+          <input type="text" value="0" id="answerInput"/>
         </p>
         <p>
-          <input type="button" value=" Check Answer" onlick="checkAnswer()"
+          <input type="button" value=" Check Answer" onclick="checkAnswer()"
         </p>
           <p id="response">
             

@@ -34,11 +34,6 @@ function checkAnswer(){
   }
   
 }
-  #flashcard input {type=button}
-  background-color:purple 
-  color:white;
-padding :20px
-font - size:20px;
   
   
   

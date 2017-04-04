@@ -14,9 +14,11 @@ body{
    
 }
 
-#flashcard input {type=button}
-  background-color:purple 
-  color:white;
-padding :20px
-font - size:20px;
-  
+
+#gallery input[type=button]{
+    background-color:pink;
+    font-weight:bolder
+    padding:20px;
+    margin:4px;
+    font-size:15px;
+}

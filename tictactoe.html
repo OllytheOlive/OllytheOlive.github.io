@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title>Projects</title>
+     <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <script src="tictactoe.js"></script>
+  </head>
+  <body>
+    <div id="container" style>
+   <p id="nav">
+     <a href="index.html"> Home </a> |
+     <a href="aboutme.html"> About Me </a> |
+     <a href="projects.html">Projects </a> 
+      </p>
+      </p>
+    <p id="players">
+      <input type="button" value="x" onclick="chooseXorO('x')"/>
+      <input type="button" value="o" onclick="chooseXorO('o')"/>
+    </p>
+    <p id="notes">
+           Hit x or o to start.Then choose location.
+    </p>
+    <div id="board">
+      <div>
+        <div class="box" id="row1col1" onclick="makeMove( 'row1col')"></div>
+        <div class="box" id="rowcol2" onclick="makeMove( 'row1co2')"></div>
+        <div class="box" id="rowcol3" onclick="makeMove( 'row1co3')"></div>
+        </div>
+      
+       <div>
+        <div class="box" id="row2col1"onclick="makeMove( 'row2col')"></div>
+        <div class="box" id="row2col2"onclick="makeMove( 'row2co2')"></div>
+        <div class="box" id="row2col3"onclick="makeMove( 'row2co3')"></div>
+      </div>
+      <div>
+      <div class="box" id="row3col1"onclick="makeMove( 'row3col')"></div>
+        <div class="box" id="row3col2"onclick="makeMove( 'row3co2')"></div>
+        <div class="box" id="row3col3"onclick="makeMove( 'row3co3')"></div>
+     </div>
+             
+    </div>
+  </body>
+</html>

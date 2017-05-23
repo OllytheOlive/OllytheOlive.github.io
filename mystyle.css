@@ -1,16 +1,16 @@
 body{
-  text-align:center;
+  text-align:right;
 }
 
 #container{
-  background-color:pink;color:teal;
-  margin:25px;padding:25px;border-radius:25px;  
+  background-color:#ccffff;color:  background-color:#ccffff;color:;
+  margin:100px;padding:100px;border-radius:1px;  
 }
   
   #flashcard input[type=button]{
     background-color:pink;
-      padding:20px;
-     font-size:15px;
+      padding:25px;
+     font-size:59px;
    
 }
 
@@ -24,12 +24,12 @@ body{
 }
 .box{
   border-style:solid;
-  float:left;
+  float:right;
   text-align:center;
   line-height:100px;
   vertical-align:middle;
-  height:100px;
-  width:100px;
+  height:25px;
+  width:25px;
   background-color:white;
   
 }

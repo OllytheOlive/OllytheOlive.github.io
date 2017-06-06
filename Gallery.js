@@ -1,7 +1,11 @@
-var pics = ["https://68.media.tumblr.com/0e0eeff3323644d5207f0989480b2210/tumblr_oh4ifeLTHn1v46r1fo1_500.png",
-           "https://s.yimg.com/ny/api/res/1.2/RwiKZ0vw45SUZzhH4mSVgg--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/hello_giggles_454/c1899618f7b8f60be2c7c18ed8806929",
-           "http://pitchfork-cdn.s3.amazonaws.com/content/ST-Vinyl-Vol-1-Front-Cover_3000.jpg",
-           "http://vignette3.wikia.nocookie.net/strangerthings8338/images/c/c7/The_Monster_002.png/revision/latest?cb=20160803065827"
+var pics = ["http://www.cutenessoverflow.com/wp-content/uploads/2016/06/l.jpg"
+            "https://s-media-cache-ak0.pinimg.com/736x/af/1e/d4/af1ed4b27151fdfb1792cf95a240ec48.jpg"
+            "http://cfcdn.newsmax.com/Newsmax/files/58/58f7a913-a4a6-47d1-9f38-cf3599f8b2eb.jpg"
+            "https://www.ucdavis.edu/sites/default/files/news/general-news/2016/apr/ohi-logo-consortium.jpg"
+             "https://1.cdn.edl.io/zx0vgxMF6oWXOTpDc6FH5djem6wHNqKQcNOuhtZTMYDAIaKD.png"
+              
+            
+            
            ];
 var divlocation = 0;
 
